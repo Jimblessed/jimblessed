@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:0078D4,100:6A5ACD&height=240&section=header&text=Jim%20Odey&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Solutions%20Architecture&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Google+Cloud+%7C+Solutions+Architecture;Infrastructure+as+Code+%7C+Automation;Linux+%7C+Docker+%7C+Kubernetes;Cloud+Security+%7C+CI%2FCD;Building+Real-World+Cloud+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Google+Cloud+%7C+Solutions+Architecture;Infrastructure+as+Code+%7C+Automation;Linux+%7C+Docker+%7C+Kubernetes;Cloud+Security+%7C+CI%2FCD;Building+Scalable+Cloud+Infrastructure" />
 
 </div>
 
@@ -11,47 +11,49 @@
 <h1 align="center">Hi 👋, I'm Jim Odey</h1>
 
 <p align="center">
-  <strong>Cloud & DevOps Engineer • Solutions Architecture Enthusiast</strong>
+  <strong>Cloud & DevOps Engineer • Solutions Architecture</strong>
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm passionate about cloud computing,
-  DevOps, automation, infrastructure, and building real-world projects
-  that solve practical problems.
+  Welcome to my GitHub profile! I work with cloud technologies,
+  DevOps practices, infrastructure automation, and modern deployment
+  workflows to build reliable and scalable solutions.
 </p>
 
 <p align="center">
-  I'm continuously learning, experimenting, and improving my skills across
-  cloud platforms, Linux, containers, infrastructure as code, and modern
-  software delivery practices.
+  My focus is on designing, deploying, and managing cloud infrastructure
+  while applying automation, security, scalability, and reliability
+  principles to real-world environments.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 I'm currently working on **real-world Cloud & DevOps projects**
-* 🌱 I'm currently learning **Google Cloud Platform & Solutions Architecture**
-* ☁️ My primary cloud focus is **Google Cloud (GCP)**
-* 🐳 I'm building skills in **Docker & Kubernetes**
-* ⚙️ I'm exploring **CI/CD, Infrastructure as Code & Cloud Automation**
-* 🐧 I enjoy working with **Linux and cloud infrastructure**
-* 🤝 I'm looking to collaborate on **Open Source & Cloud Projects**
-* 💬 Ask me about **Cloud, Linux, DevOps, Docker, Git, or Infrastructure**
-* 🎯 My goal is to become a **highly skilled Cloud & DevOps Engineer**
-* 🏗️ Long-term focus: **Cloud Solutions Architecture & Platform Engineering**
+* ☁️ Cloud & DevOps Engineer focused on **Google Cloud Platform**
+* 🏗️ Focused on **Cloud Solutions Architecture**
+* ⚙️ Experienced with **automation, CI/CD, and Infrastructure as Code**
+* 🐳 Working with **Docker and containerized workloads**
+* ☸️ Working with **Kubernetes and cloud-native technologies**
+* 🐧 Comfortable working with **Linux and cloud infrastructure**
+* 🔐 Interested in **Cloud Security, IAM, and secure infrastructure**
+* 🌐 Interested in **Cloud Networking and distributed systems**
+* 🤝 Open to collaborating on **Open Source, Cloud & DevOps projects**
+* 💬 Ask me about **Cloud, Linux, DevOps, Docker, Git, and Infrastructure**
+* 🎯 Focused on building **production-ready cloud and DevOps solutions**
 
 ---
 
-## ☁️ Cloud & DevOps Focus
+## ☁️ Cloud & DevOps
 
 ```text
-Cloud Computing
+Cloud Architecture
 ├── Google Cloud Platform
 ├── Compute & Networking
 ├── IAM & Security
 ├── Storage & Databases
-└── Cloud Architecture
+├── High Availability
+└── Scalable Infrastructure
 
 DevOps
 ├── Git & GitHub
@@ -64,7 +66,7 @@ Infrastructure
 ├── Linux
 ├── Networking
 ├── Automation
-├── Monitoring
+├── Monitoring & Observability
 └── Cloud Security
 ```
 
@@ -80,50 +82,48 @@ Infrastructure
 
 ---
 
-## 📚 Currently Learning
+## 🏗️ Areas of Expertise
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=gcp,kubernetes,terraform,docker,linux,python,bash,git" />
+<img src="https://skillicons.dev/icons?i=gcp,terraform,docker,kubernetes,linux,python,bash,git,github" />
 
 </p>
 
-### Current Learning Goals
-
-* ☁️ Google Cloud Platform
-* 🏗️ Cloud Solutions Architecture
-* 🔐 Cloud Security & IAM
+* ☁️ Cloud Infrastructure & Architecture
+* 🏗️ Infrastructure as Code
+* ⚙️ CI/CD & DevOps Automation
+* 🐳 Containerization
+* ☸️ Kubernetes & Cloud-Native Platforms
+* 🐧 Linux Administration
 * 🌐 Cloud Networking
-* 🐳 Docker & Containerization
-* ☸️ Kubernetes
-* ⚙️ Infrastructure as Code
-* 🔄 CI/CD Automation
-* 🐧 Advanced Linux
-* 📊 Cloud Monitoring & Observability
+* 🔐 Identity & Access Management
+* 🛡️ Cloud Security
+* 📊 Monitoring & Observability
 
 ---
 
 ## 💻 Featured Projects
 
-### ☁️ Cloud Project One
+### ☁️ Cloud Infrastructure Project
 
-A real-world cloud project demonstrating cloud infrastructure, deployment, networking, and operational best practices.
-
-**Repository:**
-https://github.com/jimblessed/
-
----
-
-### ⚙️ DevOps Project Two
-
-A DevOps-focused project demonstrating automation, version control, CI/CD, containerization, and deployment workflows.
+A real-world cloud infrastructure project demonstrating architecture, deployment, networking, security, and operational best practices.
 
 **Repository:**
 https://github.com/jimblessed/
 
 ---
 
-### 🏗️ Cloud Architecture Project Three
+### ⚙️ DevOps Automation Project
+
+A DevOps project demonstrating version control, CI/CD automation, containerization, infrastructure automation, and deployment workflows.
+
+**Repository:**
+https://github.com/jimblessed/
+
+---
+
+### 🏗️ Cloud Architecture Project
 
 A cloud architecture project focused on designing scalable, secure, reliable, and cost-conscious infrastructure.
 
@@ -133,8 +133,6 @@ https://github.com/jimblessed/
 ---
 
 ## 🏆 Certifications
-
-> Add your completed certifications here as you earn them.
 
 | Certification                           | Issuing Organization | Date | Credential           |
 | --------------------------------------- | -------------------- | ---- | -------------------- |
@@ -146,20 +144,18 @@ https://github.com/jimblessed/
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Professional Goals
 
-* ✅ Build **10+ real-world cloud projects**
-* ☁️ Deepen my **Google Cloud Platform** expertise
-* 🏗️ Develop strong **Cloud Solutions Architecture** skills
-* 🐳 Master **Docker & containerization**
-* ☸️ Learn and deploy workloads with **Kubernetes**
-* ⚙️ Build practical **CI/CD pipelines**
-* 🏗️ Improve **Infrastructure as Code** skills
-* 🐧 Strengthen my **Linux & networking** knowledge
-* 🔐 Improve **Cloud Security** skills
-* 🤝 Contribute to **Open Source**
-* 📜 Earn relevant **Cloud & DevOps certifications**
-* 🚀 Build a strong portfolio for a **Cloud / DevOps Engineering career**
+* ☁️ Design and implement **scalable cloud architectures**
+* 🏗️ Build robust **Google Cloud infrastructure**
+* ⚙️ Automate infrastructure and software delivery
+* 🔄 Design reliable **CI/CD pipelines**
+* ☸️ Build and operate **cloud-native workloads**
+* 🔐 Implement secure cloud infrastructure and IAM
+* 📊 Improve observability and system reliability
+* 🤝 Contribute to meaningful **Open Source projects**
+* 🚀 Build and document **real-world cloud solutions**
+* 📜 Continue developing expertise through **industry certifications and hands-on projects**
 
 ---
 
@@ -183,45 +179,13 @@ https://github.com/jimblessed/
 
 ---
 
-## ⚡ A Little More About Me
-
-```yaml
-name: Jim Odey
-role: Cloud & DevOps Engineer
-
-focus:
-  - Cloud Computing
-  - DevOps
-  - Solutions Architecture
-  - Infrastructure as Code
-  - Cloud Security
-  - Automation
-
-primary_cloud: Google Cloud Platform
-
-learning:
-  - GCP
-  - Kubernetes
-  - Docker
-  - Terraform
-  - Linux
-  - CI/CD
-  - Cloud Networking
-
-goal: >
-  Become a highly skilled Cloud & DevOps Engineer
-  with strong Solutions Architecture capabilities.
-```
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:0078D4,100:4285F4&height=140&section=footer&animation=fadeIn"/>
 
 ### ⭐ Thanks for visiting my profile!
 
-**Cloud • DevOps • Automation • Architecture • Continuous Learning**
+**Cloud • DevOps • Automation • Architecture • Reliability**
 
 <p>
   <a href="https://github.com/jimblessed">GitHub</a>
