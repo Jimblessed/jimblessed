@@ -139,7 +139,6 @@ https://github.com/jimblessed/
 | Google Cloud Certification              | Google Cloud         | —    | [View Credential](#) |
 | Microsoft Azure Fundamentals            | Microsoft            | —    | [View Credential](#) |
 | AWS Cloud Practitioner                  | AWS                  | —    | [View Credential](#) |
-| Kubernetes & Cloud Native Certification | CNCF                 | —    | [View Credential](#) |
 | *(Add more here)*                       |                      |      |                      |
 
 ---
