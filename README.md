@@ -134,12 +134,22 @@ https://github.com/jimblessed/
 
 ## 🏆 Certifications
 
-| Certification                           | Issuing Organization | Date | Credential           |
-| --------------------------------------- | -------------------- | ---- | -------------------- |
-| Google Cloud Certification              | Google Cloud         | —    | [View Credential](#) |
-| Microsoft Azure Fundamentals            | Microsoft            | —    | [View Credential](#) |
-| AWS Cloud Practitioner                  | AWS                  | —    | [View Credential](#) |
-| *(Add more here)*                       |                      |      |                      |
+## Licenses & Certifications
+
+## Licenses & Certifications
+
+| Certification | Issuing Organization | Date Issued | Credential |
+|---|---|---|---|
+| AWS Certified Cloud Practitioner | Amazon Web Services (AWS) | Apr 2021 | [View Credential](https://www.credly.com/badges/5292ae94-7ed1-4bc0-80b1-a1364cbbaf27) |
+| Associate Cloud Engineer | Google Cloud | Apr 2021 | [View Credential](https://www.credential.net/f55c5de7-df88-4f34-815d-201375ca0fa7) |
+| Certified Jenkins Engineer 2021 | CloudBees | Feb 2021 | [View Credential](https://certificates.cloudbees.com/3349c0d9-d259-4258-bf05-848a823aedfa) |
+| Oracle Cloud Infrastructure 2019 Cloud Operations Certified Associate | Oracle | Jul 2020 | [View Credential](https://www.youracclaim.com/badges/2e646770-c974-42f0-b95d-8bf5e96a6524) |
+| CCNA | Cisco | Jul 2020 | [View Credential](https://www.youracclaim.com/badges/510bbc12-e1cf-485d-8b73-6dfc279ad654) |
+| Oracle Cloud Infrastructure Foundations 2020 Certified Associate | Oracle | Apr 2020 | — |
+
+
+
+
 
 ---
 
